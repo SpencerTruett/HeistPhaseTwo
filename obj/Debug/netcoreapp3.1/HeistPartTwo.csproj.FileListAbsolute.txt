@@ -1,0 +1,11 @@
+C:\Users\gilde\workspace\csharp\exercises\HeistPartTwo\bin\Debug\netcoreapp3.1\HeistPartTwo.exe
+C:\Users\gilde\workspace\csharp\exercises\HeistPartTwo\bin\Debug\netcoreapp3.1\HeistPartTwo.deps.json
+C:\Users\gilde\workspace\csharp\exercises\HeistPartTwo\bin\Debug\netcoreapp3.1\HeistPartTwo.runtimeconfig.json
+C:\Users\gilde\workspace\csharp\exercises\HeistPartTwo\bin\Debug\netcoreapp3.1\HeistPartTwo.runtimeconfig.dev.json
+C:\Users\gilde\workspace\csharp\exercises\HeistPartTwo\bin\Debug\netcoreapp3.1\HeistPartTwo.dll
+C:\Users\gilde\workspace\csharp\exercises\HeistPartTwo\bin\Debug\netcoreapp3.1\HeistPartTwo.pdb
+C:\Users\gilde\workspace\csharp\exercises\HeistPartTwo\obj\Debug\netcoreapp3.1\HeistPartTwo.csprojAssemblyReference.cache
+C:\Users\gilde\workspace\csharp\exercises\HeistPartTwo\obj\Debug\netcoreapp3.1\HeistPartTwo.AssemblyInfoInputs.cache
+C:\Users\gilde\workspace\csharp\exercises\HeistPartTwo\obj\Debug\netcoreapp3.1\HeistPartTwo.AssemblyInfo.cs
+C:\Users\gilde\workspace\csharp\exercises\HeistPartTwo\obj\Debug\netcoreapp3.1\HeistPartTwo.dll
+C:\Users\gilde\workspace\csharp\exercises\HeistPartTwo\obj\Debug\netcoreapp3.1\HeistPartTwo.pdb
